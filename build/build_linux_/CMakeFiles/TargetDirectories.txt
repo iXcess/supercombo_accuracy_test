@@ -1,0 +1,7 @@
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/rknn_app_demo.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/edit_cache.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/list_install_components.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/install.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/install/local.dir
+/home/ubuntu/supercombo_accuracy_test/build/build_linux_/CMakeFiles/install/strip.dir
